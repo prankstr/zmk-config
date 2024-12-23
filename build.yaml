@@ -18,8 +18,6 @@
 #     artifact-name: corne_left_with_studio
 #
 ---
-board: ["lotus58_ble_left", "lotus58_ble_right"]
-#shield: ["lotus58_ble_left", "lotus58_ble_right"]
-#board: ["nice_nano_v2"]
-#board: ["nice_nano"]
-#shield: ["splitkb_aurora_lily58_left", "splitkb_aurora_lily58_right"]
+include:
+  - board: lotus58_ble_left
+  - board: lotus58_ble_right
