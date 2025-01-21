@@ -65,7 +65,7 @@
 &kp TAB   &kp Q  &kp W    &kp E      &kp R     &kp T                              &kp Y     &kp U       &kp I     &kp O    &kp P    &kp LBKT
 &kp LSHFT &kp A  &sleft   &kp D      &fright   &kp G                              &kp H     &kp J       &kp K     &kp L    &kp SEMI &mt RSHFT SQT
 &kp LCTRL &kp Z  &kp X    &kp C      &kp V     &kp B      &kp C_MUTE  &kp C_PLAY  &kp N     &kp M       &kp COMMA &kp DOT  &kp FSLH &mt RCTRL BSLH
-                          &lt 2 RET  &kp LGUI  &kp LALT  &lt 1 SPACE  &lt 2 RET &kp RALT  &lt 1 RBKT  &kp LGUI
+                          &lt 2 RET  &kp LGUI  &kp LALT   &kp SPACE   &lt 2 RET   &kp RALT  &lt 1 RBKT  &kp LGUI
             >;
             sensor-bindings = <&scroll_encoder &inc_dec_kp C_VOL_DN C_VOL_UP>;
         };
