@@ -20,4 +20,6 @@
 ---
 include:
   - board: lotus58_ble_left
+    shield: nice_view
   - board: lotus58_ble_right
+    shield: nice_view
